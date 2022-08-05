@@ -1,1 +1,2 @@
-# task2_MoveArm_arduinoCode
+# Move arm
+use java script seral port and speech to move robot arm.
